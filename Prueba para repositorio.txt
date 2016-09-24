@@ -1,1 +1,4 @@
 Esta es una prueba para usar repositorio
+
+linea de agregado manual, no recomendable.
+se tiene que hacer un push antes de iniciar a trabajar.
